@@ -8,6 +8,9 @@ A clean and modern single-page website that brings the feel of **Filimo** – Ir
 
 [View Project Online →](https://poria-dev.github.io/movies-project/)
 
+Made with ❤️ by Pooria 2026
+
+
 ## 📖 Project Overview
 
 This project is a simple single-page web application showcasing movies and series in a Filimo-inspired style.  
@@ -27,7 +30,7 @@ Built with **HTML** and **CSS** only (using Flexbox for layout), it demonstrates
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (Flexbox)
+- CSS3 (Flexbox + backdrop-filter + video embedding)
 - No frameworks or external libraries
 
 ## 🎨 Design Style
